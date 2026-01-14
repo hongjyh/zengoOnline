@@ -1,0 +1,5 @@
+{
+  "name": "ZenGo - Professional Online Go Game",
+  "description": "A high-performance Go (Weiqi) application featuring robust capture logic, AI strategic analysis powered by Gemini, and a cross-tab multiplayer simulation to demonstrate real-time synchronization.",
+  "requestFramePermissions": []
+}
